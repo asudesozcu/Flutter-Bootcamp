@@ -1,4 +1,4 @@
-# section3_I_am_rich_app
+# section3 I am rich app
 
 A new Flutter project.
 

@@ -1,6 +1,8 @@
-# section3 I am rich app
+# Section 3 I am rich app
 
-A new Flutter project.
+In this section, I practiced using MaterialApp, Scaffold, managing assets, and adding an application icon
+Also in addition to the course, I made a simple postcard application to further improve and solidify my learning from the course.
+
 
 ## Getting Started
 

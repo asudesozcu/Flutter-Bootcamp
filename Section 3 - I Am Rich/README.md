@@ -1,4 +1,4 @@
-# section3_rich_app
+# section3_I_am_rich_app
 
 A new Flutter project.
 

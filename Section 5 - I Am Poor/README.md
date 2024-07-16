@@ -1,6 +1,7 @@
-# lesson5
+# Lesson 5
 
-A new Flutter project.
+Developing app with what was learned from lesson 3.
+
 
 ## Getting Started
 

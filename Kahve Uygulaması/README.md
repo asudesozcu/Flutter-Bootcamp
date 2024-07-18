@@ -1,6 +1,4 @@
-# coffe_app
-
-A new Flutter project.
+# Container Exercise
 
 ## Getting Started
 
